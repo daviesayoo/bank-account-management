@@ -19,5 +19,5 @@ The account and transaction method of the user using the bank have been defined 
 
 User selection and transaction methods are handled with switch statements.
 
-#Try Catch statement
+# Try Catch statement
 All exceptions that occur during balance calculation is handled with this command.
