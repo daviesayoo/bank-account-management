@@ -1,0 +1,8 @@
+{
+  "name": "Bank",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/daviesayoo/bank-account-management.git",
+  "author": "daviesayo <daviesayo14@gmail.com>",
+  "license": "MIT"
+}
